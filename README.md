@@ -1,2 +1,2 @@
 # Mi-primer-rep
-Practica de creando mi primer repositorio
+Modificando mi primer reposiorio en directo
